@@ -590,7 +590,7 @@ function Night(clazz){
 
 ## Test this element
 
-You can test in this web: <a href="https://malextrap.github.io/Weather/src/weather.min.html">this</a>
+You can test in this web: <a href="https://malextrap.github.io/Weather/src/minify/weather.min.html">this</a>
 
 
 
